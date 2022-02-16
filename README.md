@@ -12,10 +12,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mreinhart1021@gmail.com
 
 TECHNICAL SKILLS
+
 Languages: Python, SQL, R
+
+
 Libraries: Pandas, Numpy, SciPy, Scikit-learn, statsmodels, Matplotlib, ggplot2, Seaborn, Plotly, TensorFlow, Keras, NLTK
+
+
 Machine Learning: Linear Regression, Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, Random Forest, Naïve Bayes, Bagging, XGBoost, Support Vector Machine (SVM)
+
+
 Version Control: Git/GitHub
+
+
 IDEs: Jupyter Notebook, R Studio, Visual Studio Code
+
+
 Data Sources: JSON, CSV, XLS, XLSX
+
+
 Office Skills: Zoom, Slack, Excel
