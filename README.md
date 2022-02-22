@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects, ML, economics and statistics
 - 📫 How to reach me: mreinhart1021@gmail.com
 
-### TECHNICAL SKILLS:
+### Technical Skills:
 
 Languages: Python, SQL, R
 
