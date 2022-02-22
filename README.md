@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects, ML, economics and statistics
 - 📫 How to reach me: mreinhart1021@gmail.com
 
-TECHNICAL SKILLS
+### TECHNICAL SKILLS:
 
 Languages: Python, SQL, R
 
@@ -24,11 +24,8 @@ Machine Learning: Linear Regression, Logistic Regression, K-Nearest Neighbors (K
 
 Version Control: Git/GitHub
 
-
 IDEs: Jupyter Notebook, R Studio, Visual Studio Code
 
-
 Data Sources: JSON, CSV, XLS, XLSX
-
 
 Office Skills: Zoom, Slack, Excel
