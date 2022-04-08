@@ -3,7 +3,6 @@
 Data Scientist with a degree in economics. Skilled at analyzing data, creating visualizations, and providing insights. Strong analytical thinker with a passion for utilizing data and machine learning to explore endless possibilities and develop creative solutions. 
 
 ### Something About Me:
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building new machine learning models
 - 🌱 I’m currently learning more deep learning algorithms as well as advanced data analytic tools
